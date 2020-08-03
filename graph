@@ -1,0 +1,50 @@
+* commit 90ac065ba530f20aaf7082cee90738509d61c506 (HEAD -> master, origin/master)
+| Author: manlik <bbryan6@gmail.com>
+| Date:   Mon Aug 3 14:11:32 2020 +0300
+| 
+|     Additional Comments
+|   
+*   commit f8d415dca2f45c564789105d0c653c21a6acd584
+|\  Merge: 06aa799 7b1188d
+| | Author: manlik <bbryan6@gmail.com>
+| | Date:   Mon Aug 3 14:08:57 2020 +0300
+| | 
+| |     Merge branch 'master' of https://github.com/nooblet779/ansibleprac
+| |     BECAUSE FILE WAS REPLACED
+| | 
+| * commit 7b1188d1fee2576c78bb7c373cf76736373cbff7
+| | Author: Sibs <68712272+nooblet779@users.noreply.github.com>
+| | Date:   Mon Aug 3 14:04:58 2020 +0300
+| | 
+| |     Delete file
+| |   
+| | * commit dce197d897479fd80d0b7e4d1eb0a83c79a10a02 (refs/stash)
+| |/| Merge: 06aa799 435b81e
+|/| | Author: manlik <bbryan6@gmail.com>
+| | | Date:   Mon Aug 3 14:07:11 2020 +0300
+| | | 
+| | |     WIP on master: 06aa799 New Repo Comments
+| | | 
+| | * commit 435b81e8faa90c4536d47d3e976822b9b975aac4
+| |/  Author: manlik <bbryan6@gmail.com>
+|/|   Date:   Mon Aug 3 14:07:11 2020 +0300
+| |   
+| |       index on master: 06aa799 New Repo Comments
+| | 
+* | commit 06aa799c891f1e68fc1fa7c7b1f9a941e19aa2b1
+|/  Author: manlik <bbryan6@gmail.com>
+|   Date:   Mon Aug 3 14:06:17 2020 +0300
+|   
+|       New Repo Comments
+| 
+* commit 9f5b9eb78359f9a28581919f6d65f33290d64fe9
+| Author: manlik <bbryan6@gmail.com>
+| Date:   Mon Aug 3 13:58:41 2020 +0300
+| 
+|     New Repo
+| 
+* commit 4885f2f5360217ffb7b193916c5d0fb3381b9bef
+  Author: manlik <bbryan6@gmail.com>
+  Date:   Mon Aug 3 13:53:53 2020 +0300
+  
+      New Repo
