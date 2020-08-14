@@ -4,11 +4,11 @@
   become: true
   tasks:
 
-  - name: update repo index
+  - name: install updates (Ubuntu)
     apt:
-      update_cache: yes 
-    when: ansible_distribution == "Debian"
-         
+      upgrade: dist
+      update_cache: yes
+    
   - name: install the apache2 & lib apache package
     apt:
       name: 
